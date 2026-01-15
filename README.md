@@ -32,12 +32,12 @@ El enfoque está orientado al **control de gestión**, comparando presupuesto ve
 ---
 
 
----
-
 ## 🚀 Próximos pasos
 - Integrar el análisis en Power BI
 - Automatizar la carga de datos
+- Ampliar el período de análisis
 
+---
 
 ## 🧠 Insights y decisiones de negocio
 
