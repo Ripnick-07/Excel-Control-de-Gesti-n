@@ -31,6 +31,14 @@ El enfoque está orientado al **control de gestión**, comparando presupuesto ve
 
 ---
 
+
+---
+
+## 🚀 Próximos pasos
+- Integrar el análisis en Power BI
+- Automatizar la carga de datos
+
+
 ## 🧠 Insights y decisiones de negocio
 
 - El KPI prioritario para el análisis es la **variación entre gasto real y presupuesto**, ya que permite identificar rápidamente desviaciones relevantes.
@@ -39,10 +47,4 @@ El enfoque está orientado al **control de gestión**, comparando presupuesto ve
 - A partir de este análisis, se recomienda profundizar en las causas del aumento del gasto en marzo, evaluando si corresponde a campañas no presupuestadas, gastos extraordinarios o desviaciones operativas.
 - El dashboard permite anticipar este tipo de desviaciones y tomar acciones correctivas oportunas.
 
-
----
-
-## 🚀 Próximos pasos
-- Integrar el análisis en Power BI
-- Automatizar la carga de datos
 - Ampliar el período de análisis
