@@ -31,6 +31,17 @@ El enfoque está orientado al **control de gestión**, comparando presupuesto ve
 
 ---
 
+## 🧠 Insights y decisiones de negocio
+
+- El KPI prioritario para el análisis es la **variación entre gasto real y presupuesto**, ya que permite identificar rápidamente desviaciones relevantes.
+- El área de **Ventas** presenta la mayor desviación, con un sobre gasto aproximado de $250.000, lo que la convierte en el foco principal de análisis.
+- Se observa que en el mes de **marzo** la variación del gasto en Ventas aumenta significativamente respecto a meses anteriores.
+- A partir de este análisis, se recomienda profundizar en las causas del aumento del gasto en marzo, evaluando si corresponde a campañas no presupuestadas, gastos extraordinarios o desviaciones operativas.
+- El dashboard permite anticipar este tipo de desviaciones y tomar acciones correctivas oportunas.
+
+
+---
+
 ## 🚀 Próximos pasos
 - Integrar el análisis en Power BI
 - Automatizar la carga de datos
